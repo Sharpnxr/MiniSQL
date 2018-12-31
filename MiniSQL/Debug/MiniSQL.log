@@ -1,0 +1,7 @@
+﻿  indexmanager.cpp
+c:\users\聂欣睿\desktop\minisql\buffermanager.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\聂欣睿\desktop\minisql\recordmanager.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\聂欣睿\desktop\minisql\public.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\聂欣睿\desktop\minisql\indexmanager.cpp(672): warning C4018: “<”: 有符号/无符号不匹配
+  MiniSQL.vcxproj -> C:\Users\聂欣睿\Desktop\MiniSQL\Debug\MiniSQL.exe
+  MiniSQL.vcxproj -> C:\Users\聂欣睿\Desktop\MiniSQL\Debug\MiniSQL.pdb (Full PDB)
